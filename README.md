@@ -1,5 +1,5 @@
 # UI_for_lessons
-A simple UI for preparing lessons, recording attendance, cleaning notes, and sending emails for online English lessons.
+A simple UI for preparing lessons, recording attendance, cleaning notes, and sending emails for online language lessons.
 
 ## Description
 A simple UI to assist with:
@@ -84,7 +84,7 @@ By clicking on a topic, the user can see the list of questions to make sure they
 
 ![A screenshot of the UI](UI_Screenshots/Slide4.PNG)
 
-The above image shows the output of the "note cleaner" button, so that the user can check that all unecessary spaces and text was removed.
+The above image shows the output of the "note cleaner" button, so that the user can check that all unnecessary spaces and text was removed.
 
 ![A screenshot of the UI](UI_Screenshots/Slide6.png)
 
